@@ -13,8 +13,8 @@ This mod does the following:
   - [X] Liquid Neutronium
   - [X] Liquid Anti-Neutronium
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
-  - [ ] Liquid Nocxium
-    - Yields Nocxium ore, Essentia Obscura, genes
+  - [X] Liquid Nocxium
+    - Yields Nocxium ore, Essentia Obscura, morphiteore
   - [ ] Liquid Neutronium
     - Yields red matter, dark matter, exotic matter
   - [ ] Liquid Anti-Neutronium
@@ -26,7 +26,7 @@ This mod does the following:
   - [ ] Liquid Anti-Neutronium
 - [ ] Adds liquid mixing reactions
   - [ ] TODO: what reactions do I want to add?
-    - Maybe aether/obscura/etc yields anti-neutronium, etc.
+    - Maybe neutronium + aether/obscura/etc yields anti-neutronium
 - TODO: Things I am not yet certain whether to do
   - Liquids I am debating
     - [ ] Liquid Dark Matter
