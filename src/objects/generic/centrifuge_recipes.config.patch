@@ -22,5 +22,14 @@
       "liquidelderfluid": ["rare", 2],
       "nocxiumore": ["uncommon", 2]
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-neutronium",
+    "value" : {
+      "redmatter": ["rare", 2],
+      "exoticmatter": ["rare", 1],
+      "neutronium": ["uncommon", 2]
+    }
   }
 ]

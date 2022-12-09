@@ -15,8 +15,8 @@ This mod does the following:
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [X] Liquid Nocxium
     - Yields Nocxium ore, Essentia Obscura, morphiteore
-  - [ ] Liquid Neutronium
-    - Yields red matter, dark matter, exotic matter
+  - [X] Liquid Neutronium
+    - Yields neutronium, exotic matter, red matter  
   - [ ] Liquid Anti-Neutronium
     - Yields exotic particles, research, exotic matter
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
