@@ -24,7 +24,7 @@ This mod does the following:
   - [X] Liquid Anti-Neutronium
   - [X] Liquid Dark Matter
   - [X] Liquid Red Matter
-  - [ ] Liquid Phase-State Gel
+  - [X] Liquid Phase-State Gel
   - [ ] Liquid Xenophagic Substance
 - [] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [X] Liquid Nocxium
