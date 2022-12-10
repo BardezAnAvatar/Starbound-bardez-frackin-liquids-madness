@@ -19,7 +19,7 @@ This mod does the following:
     - Yields neutronium, exotic matter, red matter  
   - [X] Liquid Anti-Neutronium (isotope centrifuge only)
     - Yields unstableparticles, research, exotic matter, ???
-- [ ] Adds conversion recipes to the Atomic Furnace for these liquids
+- [X] Adds conversion recipes to the Fission Furnace for these liquids
 - [ ] Adds research recipes to the research system for these liquids
   - [ ] Liquid Nocxium
   - [ ] Liquid Neutronium
