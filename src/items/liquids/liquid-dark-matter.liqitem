@@ -1,0 +1,10 @@
+{
+  "itemName" : "liquid-dark-matter",
+  "rarity" : "rare",
+  "category" : "liquid",
+  "inventoryIcon" : "liquid-dark-matter.png",
+  "shortdescription" : "Liquid Dark Matter",
+  "description" : "A measure of liquid dark matter. Does not interact with electromagnetic specturm.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-dark-matter",
+  "price": 150
+}

@@ -22,7 +22,7 @@ This mod does the following:
   - [X] Liquid Nocxium
   - [X] Liquid Neutronium
   - [X] Liquid Anti-Neutronium
-  - [ ] Liquid Dark Matter
+  - [X] Liquid Dark Matter
   - [ ] Liquid Red Matter
   - [ ] Liquid Phase-State Gel
   - [ ] Liquid Xenophagic Substance
