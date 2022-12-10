@@ -8,7 +8,7 @@ This repo was branched off of [Starbound-bardez-ore-liquids-frackin](https://git
 
 This mod does the following:
 
-- [] Adds in liquids based on Frackin' Universe madness ores/materials:
+- [ ] Adds in liquids based on Frackin' Universe madness ores/materials:
     | Liquid                      | Liquid ID |
     |-----------------------------|-----------|
     | Liquid Nocxium              | 143       |
@@ -18,15 +18,7 @@ This mod does the following:
     | Liquid Red Matter           | 147       |
     | Liquid Phase-State Gel      | 148       |
     | Liquid Xenophagic Substance | 149       |
-
-  - [X] Liquid Nocxium
-  - [X] Liquid Neutronium
-  - [X] Liquid Anti-Neutronium
-  - [X] Liquid Dark Matter
-  - [X] Liquid Red Matter
-  - [X] Liquid Phase-State Gel
-  - [ ] Liquid Xenophagic Substance
-- [] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
+- [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [X] Liquid Nocxium
     - Yields Nocxium ore, Essentia Obscura, morphiteore
   - [X] Liquid Neutronium (isotope centrifuge only)
