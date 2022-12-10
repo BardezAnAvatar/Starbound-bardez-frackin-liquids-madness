@@ -1,0 +1,16 @@
+{
+  "name" : "red-matter",
+  "blockingStat" : "gravrainImmunity",
+  "effectConfig" : {
+    "gravityMod" : 8.0,
+	  "extraBlockingStats":["specialStatusImmunity"]
+  },
+  "defaultDuration" : 0.35,
+
+  "scripts" : [ "/scripts/unifiedGravMod.lua", "/stats/effects/fu_extraBlockingStats.lua" ],
+
+  "animationConfig" : "gravrain.animation",
+
+  "label" : "Red Matter",
+  "icon" : "/interface/statuses/lowgrav.png" //just a generic gravity icon
+}
