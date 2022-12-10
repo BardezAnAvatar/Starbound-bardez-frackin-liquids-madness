@@ -8,7 +8,17 @@ This repo was branched off of [Starbound-bardez-ore-liquids-frackin](https://git
 
 This mod does the following:
 
-- [] Adds in more liquids based on Frackin' Universe madness ores/materials:
+- [] Adds in liquids based on Frackin' Universe madness ores/materials:
+    | Liquid                      | Liquid ID |
+    |-----------------------------|-----------|
+    | Liquid Nocxium              | 143       |
+    | Liquid Neutronium           | 144       |
+    | Liquid Anti-Neutronium      | 145       |
+    | Liquid Dark Matter          | 146       |
+    | Liquid Red Matter           | 147       |
+    | Liquid Phase-State Gel      | 148       |
+    | Liquid Xenophagic Substance | 149       |
+
   - [X] Liquid Nocxium
   - [X] Liquid Neutronium
   - [X] Liquid Anti-Neutronium
