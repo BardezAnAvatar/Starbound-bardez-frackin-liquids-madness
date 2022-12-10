@@ -1,0 +1,10 @@
+{
+  "itemName" : "liquid-xenophagic-substance",
+  "rarity" : "rare",
+  "category" : "liquid",
+  "inventoryIcon" : "liquid-xenophagic-substance.png",
+  "shortdescription" : "Liquid Xenophagic Substance",
+  "description" : "A measure of liquid xenophagic substance. Filled with microbes, nanoparticles, and decay. Smells awful.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-xenophagic-substance",
+  "price": 150
+}

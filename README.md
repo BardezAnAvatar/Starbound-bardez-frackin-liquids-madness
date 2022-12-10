@@ -8,7 +8,7 @@ This repo was branched off of [Starbound-bardez-ore-liquids-frackin](https://git
 
 This mod does the following:
 
-- [ ] Adds in liquids based on Frackin' Universe madness ores/materials:
+- [X] Adds in liquids based on Frackin' Universe madness ores/materials:
     | Liquid                      | Liquid ID |
     |-----------------------------|-----------|
     | Liquid Nocxium              | 143       |
