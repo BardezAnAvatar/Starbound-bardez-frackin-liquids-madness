@@ -82,7 +82,7 @@
       "aliencompound": ["rarest", 3],
       "blobbushjelly": ["rarest", 2],
       "biospore": ["rare", 1],
-      "liquidalienjuice": ["uncommon", 1],
+      "liquidalienjuice": ["uncommon", 2],
       "alienwoodsap": ["common", 2]
     }
   }
