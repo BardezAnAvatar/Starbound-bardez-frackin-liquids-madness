@@ -64,5 +64,15 @@
       "liquidblood": ["uncommon", 1],
       "redmatter": ["common", 2]
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapIsotopes/liquid-state-phase-gel",
+    "value" : {
+      "moonstoneore": ["rare", 1],
+      "graphene": ["uncommon", 2],
+      "liquidorganicsoup": ["uncommon", 1],
+      "precursorgel": ["common", 2]
+    }
   }
 ]
