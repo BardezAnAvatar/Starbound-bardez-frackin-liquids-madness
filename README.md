@@ -26,7 +26,7 @@ This mod does the following:
   - [X] Liquid Anti-Neutronium (isotope centrifuge only)
     - Yields unstableparticles, research, exotic matter, ???
   - [ ] Liquid Dark Matter
-    - Yields darkmatter, Caliginous Gas, mercury, morphite (rarest)
+    - Yields darkmatter, Caliginous Gas, mercury, morphite (rarest), State-Phase Gel (rarest)
   - [ ] Liquid Red Matter
     - Yields redmatter, blood, Liquid Protocite, psionicenergy, darkmatter (rarest)
   - [ ] Liquid Phase-State Gel

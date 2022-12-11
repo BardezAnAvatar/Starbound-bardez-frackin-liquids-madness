@@ -42,5 +42,16 @@
       "fuscienceresource": ["uncommon", 2],
       "unstableparticles": ["common", 2]
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapIsotopes/liquid-dark-matter",
+    "value" : {
+      "morphiteore": ["rare", 2],
+      "precursorgel": ["rare", 2],
+      "ff_mercury": ["uncommon", 3],
+      "shadowgasliquid": ["uncommon", 2],
+      "darkmatter": ["common", 2]
+    }
   }
 ]
