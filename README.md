@@ -18,20 +18,20 @@ This mod does the following:
     | Liquid Red Matter           | 147       |
     | Liquid State-Phase Gel      | 148       |
     | Liquid Xenophagic Substance | 149       |
-- [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
+- [X] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [X] Liquid Nocxium
     - Yields Nocxium ore, Essentia Obscura, morphiteore
   - [X] Liquid Neutronium (isotope centrifuge only)
     - Yields neutronium, exotic matter, red matter  
   - [X] Liquid Anti-Neutronium (isotope centrifuge only)
     - Yields unstableparticles, research, exotic matter, ???
-  - [ ] Liquid Dark Matter
+  - [X] Liquid Dark Matter
     - Yields darkmatter, Caliginous Gas, mercury, morphite (rarest), State-Phase Gel (rarest)
-  - [ ] Liquid Red Matter
+  - [X] Liquid Red Matter
     - Yields redmatter, blood, Liquid Protocite, psionicenergy, darkmatter (rarest)
-  - [ ] Liquid Phase-State Gel
+  - [X] Liquid Phase-State Gel
     - Yields precursorgel, Organic Soup, graphene, telebriumore (rarest)
-  - [ ] Liquid Xenophagic Substance
+  - [X] Liquid Xenophagic Substance
     - Yields alienwoodsap, Plasmic Fluid, Bioluminescent Spore, alien compound (rarest), Putrid Slime (rarest)
 - [ ] Adds conversion recipes for these liquids
   - [ ] Fission Furnace
