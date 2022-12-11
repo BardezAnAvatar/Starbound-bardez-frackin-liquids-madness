@@ -53,5 +53,16 @@
       "shadowgasliquid": ["uncommon", 2],
       "darkmatter": ["common", 2]
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapIsotopes/liquid-red-matter",
+    "value" : {
+      "darkmatter": ["rarest", 2],
+      "psionicenergy": ["rare", 1],
+      "vialproto": ["uncommon", 3],
+      "liquidblood": ["uncommon", 1],
+      "redmatter": ["common", 2]
+    }
   }
 ]
