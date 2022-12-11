@@ -74,5 +74,16 @@
       "liquidorganicsoup": ["uncommon", 1],
       "precursorgel": ["common", 2]
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapIsotopes/liquid-xenophagic-substance",
+    "value" : {
+      "aliencompound": ["rarest", 3],
+      "blobbushjelly": ["rarest", 2],
+      "biospore": ["rare", 1],
+      "liquidalienjuice": ["uncommon", 1],
+      "alienwoodsap": ["common", 2]
+    }
   }
 ]
