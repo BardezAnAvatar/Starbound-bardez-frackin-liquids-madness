@@ -26,9 +26,13 @@ This mod does the following:
   - [X] Liquid Anti-Neutronium (isotope centrifuge only)
     - Yields unstableparticles, research, exotic matter, ???
   - [ ] Liquid Dark Matter
+    - Yields darkmatter, Caliginous Gas, mercury, morphite (rarest)
   - [ ] Liquid Red Matter
+    - Yields redmatter, blood, Liquid Protocite, psionicenergy, darkmatter (rarest)
   - [ ] Liquid Phase-State Gel
+    - Yields precursorgel, Organic Soup, graphene, telebriumore (rarest)
   - [ ] Liquid Xenophagic Substance
+    - Yields alienwoodsap, Plasmic Fluid, Bioluminescent Spore, alien compound (rarest), Putrid Slime (rarest)
 - [ ] Adds conversion recipes for these liquids
   - [ ] Fission Furnace
     - [X] Liquid Nocxium
