@@ -1,0 +1,232 @@
+[
+  //liquid dark matter
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/liquid_state_phase_gel",
+    "value" : {
+      "icon" : "/items/liquids/liquid-state-phase-gel.png",
+      "children" : [ ],
+      "position" : [-30, -130],
+      "price" : [["fumadnessresource", 1500],["fuscienceresource", 3000]],
+      "unlocks" : [ "liquid-state-phase-gel" ]
+    }
+  },
+  //liquid dark matter
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/liquid_dark_matter",
+    "value" : {
+      "icon" : "/items/liquids/liquid-dark-matter.png",
+      "children" : [ ],
+      "position" : [-10, -135],
+      "price" : [["fumadnessresource", 2000],["fuscienceresource", 4000]],
+      "unlocks" : [ "liquid-dark-matter" ]
+    }
+  },
+  //liquid red matter
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/liquid_red_matter",
+    "value" : {
+      "icon" : "/items/liquids/liquid-red-matter.png",
+      "children" : [ ],
+      "position" : [10, -135],
+      "price" : [["fumadnessresource", 1500],["fuscienceresource", 4000]],
+      "unlocks" : [ "liquid-red-matter" ]
+    }
+  },
+  //liquid xenophagic substance
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/liquid_xenophagic_substance",
+    "value" : {
+      "icon" : "/items/liquids/liquid-xenophagic-substance.png",
+      "children" : [ ],
+      "position" : [30, -127],
+      "price" : [["fumadnessresource", 1500],["fuscienceresource", 4000]],
+      "unlocks" : [ "liquid-xenophagic-substance" ]
+    }
+  },
+  //liquid isotopes
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/liquid_isotopes",
+    "value" : {
+      "icon" : "/zb/researchTree/madness-liquid-isotopes-research.png",
+      "children" : [
+        "liquid_nocxium",
+        "liquid_neutronium",
+        "liquid_antineutronium"
+      ],
+      "position" : [0, -210],
+      "price" : [["fumadnessresource", 2500],["fuscienceresource", 5000]],
+      "unlocks" : [ ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/weapon4/children",
+    "value" : [ "liquid_isotopes" ]
+  },
+  //liquid neutronium
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/liquid_neutronium",
+    "value" : {
+      "icon" : "/items/liquids/molten-neutronium.png",
+      "children" : [ ],
+      "position" : [-20, -240],
+      "price" : [["fumadnessresource", 2500],["fuscienceresource", 5000]],
+      "unlocks" : [ "molten-neutronium" ]
+    }
+  },
+  //liquid nocxium
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/liquid_nocxium",
+    "value" : {
+      "icon" : "/items/liquids/molten-nocxium.png",
+      "children" : [ ],
+      "position" : [0, -240],
+      "price" : [["fumadnessresource", 3000],["fuscienceresource", 6000]],
+      "unlocks" : [ "molten-nocxium" ]
+    }
+  },
+  //liquid antineutronium
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/liquid_antineutronium",
+    "value" : {
+      "icon" : "/items/liquids/molten-antineutronium.png",
+      "children" : [ ],
+      "position" : [20, -240],
+      "price" : [["fumadnessresource", 3000],["fuscienceresource", 6000]],
+      "unlocks" : [ "molten-antineutronium" ]
+    }
+  },
+  //liquid states
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/liquid_states",
+    "value" : {
+      "icon" : "/zb/researchTree/madness-liquids-research.png",
+      "children" : [
+        "liquid_state_phase_gel",
+        "liquid_xenophagic_substance",
+        "liquid_dark_matter",
+        "liquid_red_matter",
+        "liquid_isotopes"
+      ],
+      "position" : [0, -110],
+      "price" : [["fumadnessresource", 1000],["fuscienceresource", 2000]],
+      "unlocks" : [ ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/cosmic2/children/-",
+    "value" : "liquid_states"
+  },
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/genes1/children/-",
+    "value" : "liquid_states"
+  },
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/weapon2/children/-",
+    "value" : "liquid_states"
+  },
+  //strings
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_states",
+    "value" : [ "Liquid Matter", "^orange;Tier 3^reset;\n\nYour obsession with hidden secrets of the universe hasn't stopped you from creating substances thought impossible. Why not see if they can be transmuted into a liquid form? Find out if they'll blend!" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_state_phase_gel",
+    "value" : [ "Liquid State-Phase Gel", "^orange;Tier 4^reset;\n\nDefy the nature of the ^cyan;state-phase gel^reset; and force it into a purely liquid state. For experimentation, of course. Because you can.\n\nRequires a ^orange;Bio-Chem Lab^reset; to transmute." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_dark_matter",
+    "value" : [ "Liquid Dark Matter", "^orange;Tier 4^reset;\n\nExcite ^cyan;dark matter^reset; into a liquid state so that you can bask in apparent nothingness. Because dark matter doesn't react to light. You, of course, know better. It totally IS there and you CAN swim in it.\n\nRequires a ^orange;Bio-Chem Lab^reset; to transmute." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_red_matter",
+    "value" : [ "Liquid Red Matter", "^orange;Tier 4^reset;\n\nThrougout your trek in these boundless stars, you've discovered the secrets to creating ^cyan;red matter^reset;, a highly volatile substance with extreme gravity-warping properties at high Kelvin temperatures.\n\nDecompress it into a liquid to swim in liquid gravity!\n\nRequires a ^orange;Bio-Chem Lab^reset; to transmute." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_xenophagic_substance",
+    "value" : [ "Liquid Xenophagic Substance", "^orange;Tier 4^reset;\n\nThis oozing, sticky, slimy, odor-ridden material looks perfect for submerging yourself in to get that perfect infectious disease or noxious stench.\n\nYou bet it would be GREAT to bath in.\n\nRequires a ^orange;Bio-Chem Lab^reset; to transmute." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_nocxium",
+    "value" : [ "Liquid Nocxium", "^orange;Tier 6^reset;\n\nThis chaotic ore makes you feel nauseous and unwell just being around it.\n\nWhy not smelt it to planetary core temperatures and go for a dive?\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_neutronium",
+    "value" : [ "Liquid Neutronium", "^orange;Tier 6^reset;\n\nTake all those hyperactive neutrons in your reaction chamber and just calm them down some. Coalesce them into a neutral, soupy, dense liquid and (try to) jump right in.\n\nWill you float or fall? The entire point of this experiment is to find out! FOR SCIENCE!\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_antineutronium",
+    "value" : [ "Liquid Antineutronium", "^orange;Tier 6^reset;\n\nJust what the hell is the opposite of a neutral particle? Charmed? Strange? Are they up or down? Find out, then bathe in it to bask in your accomplishments and achievements in field of particle physics!\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_isotopes",
+    "value" : [ "Molten Isotopes and Ores", "^orange;Tier 6^reset;\n\nAfter screwing around to find absurd substances believed to be fantasy, a thought occurs to you: why not heat up radioactive isotopes in a ^orange;Fission Furnace^reset; to see how fun it is to swim in radioactivity?." ]
+  },
+  //acronyms
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/FUMADLIQ01",
+    "value" : "liquid_states"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/FUMADLIQ02",
+    "value" : "liquid_state_phase_gel"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/FUMADLIQ03",
+    "value" : "liquid_dark_matter"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/FUMADLIQ04",
+    "value" : "liquid_red_matter"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/FUMADLIQ05",
+    "value" : "liquid_xenophagic_substance"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/FUMADLIQ06",
+    "value" : "liquid_nocxium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/FUMADLIQ07",
+    "value" : "liquid_neutronium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/FUMADLIQ08",
+    "value" : "liquid_antineutronium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/FUMADLIQ09",
+    "value" : "liquid_isotopes"
+  }
+]
