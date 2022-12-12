@@ -41,7 +41,7 @@ This mod does the following:
   - [ ] Chemistry Lab
     - [X] Liquid Dark Matter
     - [X] Liquid Red Matter
-    - [ ] Liquid Phase-State Gel
+    - [X] Liquid Phase-State Gel
     - [ ] Liquid Xenophagic Substance
 - [ ] Adds research recipes to the research system for these liquids
   - [ ] Liquid Nocxium
