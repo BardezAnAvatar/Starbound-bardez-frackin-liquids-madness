@@ -43,14 +43,14 @@ This mod does the following:
     - [X] Liquid Red Matter
     - [X] Liquid Phase-State Gel
     - [X] Liquid Xenophagic Substance
-- [ ] Adds research recipes to the research system for these liquids
-  - [ ] Liquid Nocxium
-  - [ ] Liquid Neutronium
-  - [ ] Liquid Anti-Neutronium
-  - [ ] Liquid Dark Matter
-  - [ ] Liquid Red Matter
-  - [ ] Liquid Phase-State Gel
-  - [ ] Liquid Xenophagic Substance
+- [X] Adds research recipes to the research system for these liquids
+  - [X] Liquid Nocxium
+  - [X] Liquid Neutronium
+  - [X] Liquid Anti-Neutronium
+  - [X] Liquid Dark Matter
+  - [X] Liquid Red Matter
+  - [X] Liquid Phase-State Gel
+  - [X] Liquid Xenophagic Substance
 - [ ] Adds liquid mixing reactions
   - [ ] TODO: what reactions do I want to add?
     - Maybe neutronium + aether/obscura/etc yields anti-neutronium
