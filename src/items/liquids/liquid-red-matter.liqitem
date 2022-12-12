@@ -1,0 +1,10 @@
+{
+  "itemName" : "liquid-red-matter",
+  "rarity" : "rare",
+  "category" : "liquid",
+  "inventoryIcon" : "liquid-red-matter.png",
+  "shortdescription" : "Liquid Red Matter",
+  "description" : "A measure of liquid red matter. Warps gravity under heat and pressure. DO NOT COMBUST.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-red-matter",
+  "price": 150
+}

@@ -8,10 +8,16 @@ This repo was branched off of [Starbound-bardez-ore-liquids-frackin](https://git
 
 This mod does the following:
 
-- [X] Adds in more liquids based on Frackin' Universe madness ores/materials:
-  - [X] Liquid Nocxium
-  - [X] Liquid Neutronium
-  - [X] Liquid Anti-Neutronium
+- [X] Adds in liquids based on Frackin' Universe madness ores/materials:
+    | Liquid                      | Liquid ID |
+    |-----------------------------|-----------|
+    | Liquid Nocxium              | 143       |
+    | Liquid Neutronium           | 144       |
+    | Liquid Anti-Neutronium      | 145       |
+    | Liquid Dark Matter          | 146       |
+    | Liquid Red Matter           | 147       |
+    | Liquid State-Phase Gel      | 148       |
+    | Liquid Xenophagic Substance | 149       |
 - [X] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [X] Liquid Nocxium
     - Yields Nocxium ore, Essentia Obscura, morphiteore
@@ -19,14 +25,32 @@ This mod does the following:
     - Yields neutronium, exotic matter, red matter  
   - [X] Liquid Anti-Neutronium (isotope centrifuge only)
     - Yields unstableparticles, research, exotic matter, ???
-- [X] Adds conversion recipes to the Fission Furnace for these liquids
+  - [X] Liquid Dark Matter
+    - Yields darkmatter, Caliginous Gas, mercury, morphite (rarest), State-Phase Gel (rarest)
+  - [X] Liquid Red Matter
+    - Yields redmatter, blood, Liquid Protocite, psionicenergy, darkmatter (rarest)
+  - [X] Liquid Phase-State Gel
+    - Yields precursorgel, Organic Soup, graphene, telebriumore (rarest)
+  - [X] Liquid Xenophagic Substance
+    - Yields alienwoodsap, Plasmic Fluid, Bioluminescent Spore, alien compound (rarest), Putrid Slime (rarest)
+- [X] Adds crafting recipes for these liquids
+  - [X] Fission Furnace
+    - [X] Liquid Nocxium
+    - [X] Liquid Neutronium
+    - [X] Liquid Anti-Neutronium
+  - [X] Chemistry Lab
+    - [X] Liquid Dark Matter
+    - [X] Liquid Red Matter
+    - [X] Liquid Phase-State Gel
+    - [X] Liquid Xenophagic Substance
 - [ ] Adds research recipes to the research system for these liquids
   - [ ] Liquid Nocxium
   - [ ] Liquid Neutronium
   - [ ] Liquid Anti-Neutronium
+  - [ ] Liquid Dark Matter
+  - [ ] Liquid Red Matter
+  - [ ] Liquid Phase-State Gel
+  - [ ] Liquid Xenophagic Substance
 - [ ] Adds liquid mixing reactions
   - [ ] TODO: what reactions do I want to add?
     - Maybe neutronium + aether/obscura/etc yields anti-neutronium
-- TODO: Things I am not yet certain whether to do
-  - Liquids I am debating
-    - [ ] Liquid Dark Matter

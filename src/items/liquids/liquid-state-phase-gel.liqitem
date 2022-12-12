@@ -1,0 +1,10 @@
+{
+  "itemName" : "liquid-state-phase-gel",
+  "rarity" : "uncommon",
+  "category" : "liquid",
+  "inventoryIcon" : "liquid-state-phase-gel.png",
+  "shortdescription" : "Liquid State-Phase Gel",
+  "description" : "A measure of liquid state-phase gel. Changes states of matter spontaneously.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-state-phase-gel",
+  "price": 150
+}

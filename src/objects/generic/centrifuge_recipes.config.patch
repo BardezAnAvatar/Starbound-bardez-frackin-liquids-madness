@@ -42,5 +42,48 @@
       "fuscienceresource": ["uncommon", 2],
       "unstableparticles": ["common", 2]
     }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapIsotopes/liquid-dark-matter",
+    "value" : {
+      "morphiteore": ["rare", 2],
+      "precursorgel": ["rare", 2],
+      "ff_mercury": ["uncommon", 3],
+      "shadowgasliquid": ["uncommon", 2],
+      "darkmatter": ["common", 2]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapIsotopes/liquid-red-matter",
+    "value" : {
+      "darkmatter": ["rarest", 2],
+      "psionicenergy": ["rare", 1],
+      "vialproto": ["uncommon", 3],
+      "liquidblood": ["uncommon", 1],
+      "redmatter": ["common", 2]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapIsotopes/liquid-state-phase-gel",
+    "value" : {
+      "moonstoneore": ["rare", 1],
+      "graphene": ["uncommon", 2],
+      "liquidorganicsoup": ["uncommon", 1],
+      "precursorgel": ["common", 2]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapIsotopes/liquid-xenophagic-substance",
+    "value" : {
+      "aliencompound": ["rarest", 3],
+      "blobbushjelly": ["rarest", 2],
+      "biospore": ["rare", 1],
+      "liquidalienjuice": ["uncommon", 2],
+      "alienwoodsap": ["common", 2]
+    }
   }
 ]
