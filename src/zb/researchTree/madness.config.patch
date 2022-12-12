@@ -127,7 +127,7 @@
         "liquid_red_matter",
         "liquid_isotopes"
       ],
-      "position" : [0, -130],
+      "position" : [0, -170],
       "price" : [["fumadnessresource", 1000],["fuscienceresource", 2000]],
       "unlocks" : [ ]
     }
