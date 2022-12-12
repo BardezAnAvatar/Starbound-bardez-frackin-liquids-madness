@@ -1,0 +1,141 @@
+[
+  //liquid dark matter
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/liquid_state_phase_gel",
+    "value" : {
+      "icon" : "/items/liquids/liquid-state-phase-gel.png",
+      "children" : [ ],
+      "position" : [-30, -200],
+      "price" : [["fumadnessresource", 1500],["fuscienceresource", 4000]],
+      "unlocks" : [ "liquid-state-phase-gel" ]
+    }
+  },
+  //liquid dark matter
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/liquid_dark_matter",
+    "value" : {
+      "icon" : "/items/liquids/liquid-dark-matter.png",
+      "children" : [ ],
+      "position" : [-10, -200],
+      "price" : [["fumadnessresource", 1500],["fuscienceresource", 4000]],
+      "unlocks" : [ "liquid-dark-matter" ]
+    }
+  },
+  //liquid red matter
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/liquid_red_matter",
+    "value" : {
+      "icon" : "/items/liquids/liquid-red-matter.png",
+      "children" : [ ],
+      "position" : [10, -200],
+      "price" : [["fumadnessresource", 1500],["fuscienceresource", 4000]],
+      "unlocks" : [ "liquid-red-matter" ]
+    }
+  },
+  //liquid xenophagic substance
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/liquid_xenophagic_substance",
+    "value" : {
+      "icon" : "/items/liquids/liquid-xenophagic-substance.png",
+      "children" : [ ],
+      "position" : [30, -200],
+      "price" : [["fumadnessresource", 1500],["fuscienceresource", 4000]],
+      "unlocks" : [ "liquid-xenophagic-substance" ]
+    }
+  },
+  //liquid nocxium
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/liquid_nocxium",
+    "value" : {
+      "icon" : "/items/liquids/molten-nocxium.png",
+      "children" : [ ],
+      "position" : [0, -240],
+      "price" : [["fumadnessresource", 3000],["fuscienceresource", 6000]],
+      "unlocks" : [ "molten-nocxium" ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/weapon3/children/-",
+    "value" : "liquid_nocxium"
+  },
+  //liquid states
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/liquid_states",
+    "value" : {
+      "icon" : "/zb/researchTree/madness-liquids-research.png",
+      "children" : [ "liquid_state_phase_gel", "liquid_xenophagic_substance", "liquid_dark_matter", "liquid_red_matter", "liquid_nocxium" ],
+      "position" : [0, -130],
+      "price" : [["fumadnessresource", 1000],["fuscienceresource", 2000]],
+      "unlocks" : [ ]
+    }
+  },
+  //strings
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_states",
+    "value" : [ "Liquid Matter", "^orange;Tier 3^reset;\n\nYour obsession with hidden secrets of the universe hasn't stopped you from creating substances thought impossible. Why not see if they can be transmuted into a liquid form? Find out if they'll blend!" ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_state_phase_gel",
+    "value" : [ "Liquid State-Phase Gel", "^orange;Tier 4^reset;\n\nDefy the nature of the ^cyan;state-phase gel^reset; and force it into a purely liquid state. For experimentation, of course. Because you can.\n\nRequires a ^orange;Bio-Chem Lab^reset; to transmute." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_dark_matter",
+    "value" : [ "Liquid Dark Matter", "^orange;Tier 4^reset;\n\nExcite ^cyan;dark matter^reset; into a liquid state so that you can bask in apparent nothingness. Because dark matter doesn't react to light. You, of course, know better. It totally IS there and you CAN swim in it.\n\nRequires a ^orange;Bio-Chem Lab^reset; to transmute." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_red_matter",
+    "value" : [ "Liquid Red Matter", "^orange;Tier 4^reset;\n\nThrougout your trek in these boundless stars, you've discovered the secrets to creating ^cyan;red matter^reset;, a highly volatile substance with extreme gravity-warping properties at high Kelvin temperatures.\n\nDecompress it into a liquid to swim in liquid gravity!\n\nRequires a ^orange;Bio-Chem Lab^reset; to transmute." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_xenophagic_substance",
+    "value" : [ "Liquid Xenophagic Substance", "^orange;Tier 4^reset;\n\nThis oozing, sticky, slimy, odor-ridden material looks perfect for submerging yourself in to get that perfect infectious disease or noxious stench.\n\nYou bet it would be GREAT to bath in.\n\nRequires a ^orange;Bio-Chem Lab^reset; to transmute." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_nocxium",
+    "value" : [ "Liquid Nocxium", "^orange;Tier 6^reset;\n\nThis chaotic ore makes you feel nauseous and unwell just being around it.\n\nWhy not smelt it to planetary core temperatures and go for a dive?\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
+  },
+  //acronyms
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/FUMADLIQ01",
+    "value" : "liquid_states"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/FUMADLIQ02",
+    "value" : "liquid_state_phase_gel"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/FUMADLIQ03",
+    "value" : "liquid_dark_matter"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/FUMADLIQ04",
+    "value" : "liquid_red_matter"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/FUMADLIQ05",
+    "value" : "liquid_xenophagic_substance"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/FUMADLIQ06",
+    "value" : "liquid_nocxium"
+  }
+]
