@@ -40,7 +40,7 @@ This mod does the following:
     - [X] Liquid Anti-Neutronium
   - [ ] Chemistry Lab
     - [X] Liquid Dark Matter
-    - [ ] Liquid Red Matter
+    - [X] Liquid Red Matter
     - [ ] Liquid Phase-State Gel
     - [ ] Liquid Xenophagic Substance
 - [ ] Adds research recipes to the research system for these liquids
