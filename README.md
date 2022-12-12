@@ -39,7 +39,7 @@ This mod does the following:
     - [X] Liquid Neutronium
     - [X] Liquid Anti-Neutronium
   - [ ] Chemistry Lab
-    - [ ] Liquid Dark Matter
+    - [X] Liquid Dark Matter
     - [ ] Liquid Red Matter
     - [ ] Liquid Phase-State Gel
     - [ ] Liquid Xenophagic Substance
