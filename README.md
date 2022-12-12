@@ -33,12 +33,12 @@ This mod does the following:
     - Yields precursorgel, Organic Soup, graphene, telebriumore (rarest)
   - [X] Liquid Xenophagic Substance
     - Yields alienwoodsap, Plasmic Fluid, Bioluminescent Spore, alien compound (rarest), Putrid Slime (rarest)
-- [ ] Adds conversion recipes for these liquids
-  - [ ] Fission Furnace
+- [X] Adds crafting recipes for these liquids
+  - [X] Fission Furnace
     - [X] Liquid Nocxium
     - [X] Liquid Neutronium
     - [X] Liquid Anti-Neutronium
-  - [ ] Chemistry Lab
+  - [X] Chemistry Lab
     - [X] Liquid Dark Matter
     - [X] Liquid Red Matter
     - [X] Liquid Phase-State Gel
