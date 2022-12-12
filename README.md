@@ -42,7 +42,7 @@ This mod does the following:
     - [X] Liquid Dark Matter
     - [X] Liquid Red Matter
     - [X] Liquid Phase-State Gel
-    - [ ] Liquid Xenophagic Substance
+    - [X] Liquid Xenophagic Substance
 - [ ] Adds research recipes to the research system for these liquids
   - [ ] Liquid Nocxium
   - [ ] Liquid Neutronium
