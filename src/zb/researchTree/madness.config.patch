@@ -47,22 +47,21 @@
       "unlocks" : [ "liquid-xenophagic-substance" ]
     }
   },
-  //liquid nocxium
+  //liquid isotopes
   {
     "op" : "add",
-    "path" : "/researchTree/frackinuniversemadness/liquid_nocxium",
+    "path" : "/researchTree/frackinuniversemadness/liquid_isotopes",
     "value" : {
-      "icon" : "/items/liquids/molten-nocxium.png",
-      "children" : [ ],
-      "position" : [0, -240],
-      "price" : [["fumadnessresource", 3000],["fuscienceresource", 6000]],
-      "unlocks" : [ "molten-nocxium" ]
+      "icon" : "/zb/researchTree/madness-liquid-isotopes-research.png",
+      "children" : [
+        "liquid_nocxium",
+        "liquid_neutronium",
+        "liquid_antineutronium"
+      ],
+      "position" : [0, -230],
+      "price" : [["fumadnessresource", 2500],["fuscienceresource", 5000]],
+      "unlocks" : [ ]
     }
-  },
-  {
-    "op" : "add",
-    "path" : "/researchTree/frackinuniversemadness/weapon3/children/-",
-    "value" : "liquid_nocxium"
   },
   //liquid neutronium
   {
@@ -71,7 +70,7 @@
     "value" : {
       "icon" : "/items/liquids/molten-neutronium.png",
       "children" : [ ],
-      "position" : [60, -240],
+      "position" : [20, -280],
       "price" : [["fumadnessresource", 2500],["fuscienceresource", 5000]],
       "unlocks" : [ "molten-neutronium" ]
     }
@@ -81,6 +80,23 @@
     "path" : "/researchTree/frackinuniversemadness/weapon3/children/-",
     "value" : "liquid_neutronium"
   },
+  //liquid nocxium
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/liquid_nocxium",
+    "value" : {
+      "icon" : "/items/liquids/molten-nocxium.png",
+      "children" : [ ],
+      "position" : [40, -280],
+      "price" : [["fumadnessresource", 3000],["fuscienceresource", 6000]],
+      "unlocks" : [ "molten-nocxium" ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/researchTree/frackinuniversemadness/weapon3/children/-",
+    "value" : "liquid_nocxium"
+  },
   //liquid antineutronium
   {
     "op" : "add",
@@ -88,15 +104,15 @@
     "value" : {
       "icon" : "/items/liquids/molten-antineutronium.png",
       "children" : [ ],
-      "position" : [100, -240],
-      "price" : [["fumadnessresource", 300],["fuscienceresource", 6000]],
+      "position" : [60, -280],
+      "price" : [["fumadnessresource", 3000],["fuscienceresource", 6000]],
       "unlocks" : [ "molten-antineutronium" ]
     }
   },
   {
     "op" : "add",
-    "path" : "/researchTree/frackinuniversemadness/weapon3/children/-",
-    "value" : "liquid_neutronium"
+    "path" : "/researchTree/frackinuniversemadness/weapon4/children",
+    "value" : [ "liquid_antineutronium" ]
   },
   //liquid states
   {
@@ -109,9 +125,7 @@
         "liquid_xenophagic_substance",
         "liquid_dark_matter",
         "liquid_red_matter",
-        "liquid_nocxium",
-        "liquid_neutronium",
-        "liquid_antineutronium"
+        "liquid_isotopes"
       ],
       "position" : [0, -130],
       "price" : [["fumadnessresource", 1000],["fuscienceresource", 2000]],
@@ -159,6 +173,11 @@
     "path" : "/strings/research/liquid_antineutronium",
     "value" : [ "Liquid Antineutronium", "^orange;Tier 6^reset;\n\nJust what the hell is the opposite of a neutral particle? Charmed? Strange? Are they up or down? Find out, then bathe in it to bask in your accomplishments and achievements in field of particle physics!\n\nRequires a ^orange;Fission Furnace^reset; to smelt." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_isotopes",
+    "value" : [ "Molten Isotopes and Ores", "^orange;Tier 5^reset;\n\nAfter screwing around to find absurd substances believed to be fantasy, a thought occurs to you: why not heat up radioactive isotopes in a ^orange;Fission Furnace^reset; to see how fun it is to swim in radioactivity?." ]
+  },
   //acronyms
   {
     "op" : "add",
@@ -199,5 +218,10 @@
     "op" : "add",
     "path" : "/acronyms/frackinuniversemadness/FUMADLIQ08",
     "value" : "liquid_antineutronium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/frackinuniversemadness/FUMADLIQ09",
+    "value" : "liquid_isotopes"
   }
 ]
