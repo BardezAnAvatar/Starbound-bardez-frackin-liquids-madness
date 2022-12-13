@@ -1,7 +1,8 @@
 # Starbound-bardez-frackin-liquids-madness
 
 This repo is a mod for [Starbound](https://playstarbound.com/), based on top of the following mods:
-- [Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149) 
+- [Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149)
+- [Frackin' Universe Research: Madness: Liquify Everything!](https://steamcommunity.com/sharedfiles/filedetails/?id=2901449779)
 - [mORE Liquids](https://steamcommunity.com/sharedfiles/filedetails/?id=1318339314) (for inspiration)
 
 This repo was branched off of [Starbound-bardez-ore-liquids-frackin](https://github.com/BardezAnAvatar/Starbound-bardez-ore-liquids-frackin) and its original commit history reflects that of its originating repo
